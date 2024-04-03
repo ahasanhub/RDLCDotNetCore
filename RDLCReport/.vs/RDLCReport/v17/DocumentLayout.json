@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE67B7FD-9D6A-4B8E-8906-1D5DBC224097}|ConsoleApp2\\ConsoleApp2.csproj|e:\\ahasandrive\\ahasanhub\\projects\\rdlcdotnetcore\\rdlcreport\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE67B7FD-9D6A-4B8E-8906-1D5DBC224097}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE67B7FD-9D6A-4B8E-8906-1D5DBC224097}|ConsoleApp2\\ConsoleApp2.csproj|E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\consoleapp2\\emailservice\\mailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE67B7FD-9D6A-4B8E-8906-1D5DBC224097}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\emailservice\\mailer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEA88DE-9B5C-4FA6-B344-EF4ECBE4D68D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\ahasandrive\\ahasanhub\\projects\\rdlcdotnetcore\\rdlcreport\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEA88DE-9B5C-4FA6-B344-EF4ECBE4D68D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE67B7FD-9D6A-4B8E-8906-1D5DBC224097}|ConsoleApp2\\ConsoleApp2.csproj|e:\\ahasandrive\\ahasanhub\\projects\\rdlcdotnetcore\\rdlcreport\\consoleapp2\\emailservice\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE67B7FD-9D6A-4B8E-8906-1D5DBC224097}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\emailservice\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE67B7FD-9D6A-4B8E-8906-1D5DBC224097}|ConsoleApp2\\ConsoleApp2.csproj|E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\consoleapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE67B7FD-9D6A-4B8E-8906-1D5DBC224097}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E962BF21-6D52-4E17-A400-1ABADFDE57B0}|RDLCReport.Web\\RDLCReport.Web.csproj|E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\rdlcreport.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E962BF21-6D52-4E17-A400-1ABADFDE57B0}|RDLCReport.Web\\RDLCReport.Web.csproj|solutionrelative:rdlcreport.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:37:19.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp2\\EmailService\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\EmailService\\SmtpSettings.cs",
+              "ToolTip": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp2\\EmailService\\SmtpSettings.cs",
+              "RelativeToolTip": "ConsoleApp2\\EmailService\\SmtpSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:37:14.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:49:51.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp2\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp2\\App.config",
+              "ToolTip": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp2\\App.config",
+              "RelativeToolTip": "ConsoleApp2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T06:17:16.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mailer.cs",
+              "DocumentMoniker": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp2\\EmailService\\Mailer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\EmailService\\Mailer.cs",
+              "ToolTip": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\ConsoleApp2\\EmailService\\Mailer.cs",
+              "RelativeToolTip": "ConsoleApp2\\EmailService\\Mailer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:29:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\RDLCReport.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RDLCReport.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\AhasanDrive\\ahasanhub\\Projects\\RDLCDotNetCore\\RDLCReport\\RDLCReport.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RDLCReport.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:51:07.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

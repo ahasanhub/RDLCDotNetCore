@@ -1,0 +1,16 @@
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\bin\Debug\netcoreapp3.1\RDLCReport.Win.exe
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\bin\Debug\netcoreapp3.1\RDLCReport.Win.deps.json
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\bin\Debug\netcoreapp3.1\RDLCReport.Win.runtimeconfig.json
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\bin\Debug\netcoreapp3.1\RDLCReport.Win.runtimeconfig.dev.json
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\bin\Debug\netcoreapp3.1\RDLCReport.Win.dll
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\bin\Debug\netcoreapp3.1\RDLCReport.Win.pdb
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.Form1.resources
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.csproj.GenerateResource.cache
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.GeneratedMSBuildEditorConfig.editorconfig
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.AssemblyInfoInputs.cache
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.AssemblyInfo.cs
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.csproj.CoreCompileInputs.cache
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.sourcelink.json
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.dll
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.pdb
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\RDLCReport.Win\obj\Debug\netcoreapp3.1\RDLCReport.Win.genruntimeconfig.cache

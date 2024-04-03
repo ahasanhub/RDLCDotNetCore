@@ -1,0 +1,14 @@
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.sourcelink.json
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\AhasanDrive\ahasanhub\Projects\RDLCDotNetCore\RDLCReport\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
